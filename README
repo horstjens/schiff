@@ -1,0 +1,20 @@
+schiff
+
+a game for 2 to 4 players
+written in pygame
+
+license: gpl
+author: Horst JENS 
+horst.jens@spielend-programmieren.at
+
+this game shall become part of the PythonGameBook project
+once it is mature enough
+
+http://ThePythonGameBook.com
+
+installation:
+
+you need python2.x and pygame installed to play this game
+
+
+
